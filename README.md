@@ -23,4 +23,4 @@ npm install
 # Step 4: Start the local development server
 npm run dev
 
---- website preview https://isthatmelon.github.io/isthatmelon/
+# to preview the website https://isthatmelon.github.io/isthatmelon/
