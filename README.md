@@ -2,8 +2,6 @@
 
 A modern web application built with React, Vite, and TypeScript.
 
-## Getting Started
---- website preview https://isthatmelon.github.io/isthatmelon/
 ### Prerequisites
 
 Ensure you have Node.js and npm installed. I recommend using [nvm](https://github.com/nvm-sh/nvm) to manage your Node versions.
@@ -24,3 +22,5 @@ npm install
 
 # Step 4: Start the local development server
 npm run dev
+
+--- website preview https://isthatmelon.github.io/isthatmelon/
