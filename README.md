@@ -6,7 +6,7 @@ A modern web application built with React, Vite, and TypeScript.
 
 ### Prerequisites
 
-Ensure you have Node.js and npm installed. We recommend using [nvm](https://github.com/nvm-sh/nvm) to manage your Node versions.
+Ensure you have Node.js and npm installed. I recommend using [nvm](https://github.com/nvm-sh/nvm) to manage your Node versions.
 
 ### Local Development
 
