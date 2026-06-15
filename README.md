@@ -1,4 +1,4 @@
-# Isthatmelon Project
+# IsThatmelon Project
 
 A modern web application built with React, Vite, and TypeScript.
 
