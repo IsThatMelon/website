@@ -5,7 +5,7 @@ const skillGroups = [
   },
   {
     label: "DATA",
-    items: ["MySQL", "SQLite", "YAML Configs", "Player Storage"],
+    items: ["MySQL", "MongoDB", "SQLite", "YAML Configs", "Player Storage"],
   },
   {
     label: "TOOLS & PLATFORMS",
