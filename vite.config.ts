@@ -13,6 +13,7 @@ export default defineConfig(({ mode }) => ({
     },
   },
   plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
+  base: "/isthatmelon/", // <-- ADDED THIS LINE TO FIX THE WHITE SCREEN
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
